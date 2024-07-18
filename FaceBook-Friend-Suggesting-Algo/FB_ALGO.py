@@ -1,20 +1,3 @@
-# Uncomment the following lines if you run the optional run_file tests locally
-# so the input shows up in the output file. Do not copy these lines into Codio.
-#
-# import sys
-# def input( prompt=None ):
-#    if prompt != None:
-#        print( prompt, end="" )
-#    aaa_str = sys.stdin.readline()
-#    aaa_str = aaa_str.rstrip( "\n" )
-#    print( aaa_str )
-#    return aaa_str
-#
-
-'''Source header goes here'''
-
-
-
 def open_file():
     '''
     Takes no Args,
